@@ -6,3 +6,7 @@ i use lyrics dataset from kaggle https://www.kaggle.com/datasets/pratiksaha198/l
 
 # Model
 LSTM model with emedding layer and dense 
+![Model Architecture](model.png)
+
+# Accuracy
+train Accuracy = 93.5%
